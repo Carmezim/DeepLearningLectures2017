@@ -9,3 +9,5 @@
 [Institut für Neuroinformatik Unsupervised Methods Lectures](https://www.youtube.com/watch?v=9H-1FH1gn6w&index=1&list=PLXSSzzVoCfsUgrb6v5wa2ahyfu-om8B8t) - [Website](https://www.ini.rub.de/PEOPLE/wiskott/Teaching/Material/index.html)
 
 [Oxford Deep NLP Lectures](https://github.com/oxford-cs-deepnlp-2017/lectures) - [Website](https://github.com/oxford-cs-deepnlp-2017)
+
+[Simons Institute Foundations of Machine Learning Boot Camp Lectures](https://www.youtube.com/watch?v=f0qQsz4-o68&index=1&list=PLgKuh-lKre11GbZWneln-VZDLHyejO7YD) - [Webstire](https://simons.berkeley.edu/workshops/machinelearning2017-boot-camp)
