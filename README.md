@@ -1,4 +1,5 @@
 ### 2017 Deep Learning Lectures
+[MIT 6.S191 Lectures](https://www.youtube.com/watch?v=IgSuFYamZas&list=PLkkuNyzb8LmxFutYuPA7B4oiMn6cjD6Rs&index=1) - [Website](http://introtodeeplearning.com/)
 
 [Stanford CS224N Lectures](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) - [Website](http://web.stanford.edu/class/cs224n/)
 
